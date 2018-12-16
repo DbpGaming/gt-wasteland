@@ -1,0 +1,575 @@
+[
+  {
+    "modId": "TFC-Tweaks",
+    "deps": [
+      {
+        "type": "after",
+        "target": "terrafirmacraft"
+      },
+      {
+        "type": "before",
+        "target": "gregapi"
+      },
+      {
+        "type": "before",
+        "target": "IC2"
+      },
+      {
+        "type": "before",
+        "target": "AdvancedSolarPanel"
+      },
+      {
+        "type": "before",
+        "target": "appliedenergistics2"
+      },
+      {
+        "type": "before",
+        "target": "bdlib"
+      },
+      {
+        "type": "before",
+        "target": "ae2stuff"
+      },
+      {
+        "type": "before",
+        "target": "AFSU"
+      },
+      {
+        "type": "before",
+        "target": "antiqueatlas"
+      },
+      {
+        "type": "before",
+        "target": "aobdbb"
+      },
+      {
+        "type": "before",
+        "target": "AppleCore"
+      },
+      {
+        "type": "before",
+        "target": "Aroma1997CoreHelper"
+      },
+      {
+        "type": "before",
+        "target": "Avaritia"
+      },
+      {
+        "type": "before",
+        "target": "BearCore"
+      },
+      {
+        "type": "before",
+        "target": "Forestry"
+      },
+      {
+        "type": "before",
+        "target": "beebetteratbees"
+      },
+      {
+        "type": "before",
+        "target": "betterplacement"
+      },
+      {
+        "type": "before",
+        "target": "qmunitylib"
+      },
+      {
+        "type": "before",
+        "target": "bluepower"
+      },
+      {
+        "type": "before",
+        "target": "BrandonsCore"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Core"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Transport"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Factory"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Silicon"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Robotics"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Energy"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Builders"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Compat"
+      },
+      {
+        "type": "before",
+        "target": "eureka"
+      },
+      {
+        "type": "before",
+        "target": "bcadditions"
+      },
+      {
+        "type": "before",
+        "target": "ForgeMultipart"
+      },
+      {
+        "type": "before",
+        "target": "Waila"
+      },
+      {
+        "type": "before",
+        "target": "SonarCore"
+      },
+      {
+        "type": "before",
+        "target": "Calculator"
+      },
+      {
+        "type": "before",
+        "target": "Railcraft"
+      },
+      {
+        "type": "before",
+        "target": "chisel"
+      },
+      {
+        "type": "before",
+        "target": "CarpentersBlocks"
+      },
+      {
+        "type": "before",
+        "target": "chunkpregenerator"
+      },
+      {
+        "type": "before",
+        "target": "CLG"
+      },
+      {
+        "type": "before",
+        "target": "CompactWaterTurbines"
+      },
+      {
+        "type": "before",
+        "target": "ComputerCraft"
+      },
+      {
+        "type": "before",
+        "target": "controlling"
+      },
+      {
+        "type": "before",
+        "target": "cookiecore"
+      },
+      {
+        "type": "before",
+        "target": "CoroAI"
+      },
+      {
+        "type": "before",
+        "target": "BuildMod"
+      },
+      {
+        "type": "before",
+        "target": "CoroPets"
+      },
+      {
+        "type": "before",
+        "target": "ExtendedRenderer"
+      },
+      {
+        "type": "before",
+        "target": "ConfigMod"
+      },
+      {
+        "type": "before",
+        "target": "ElecCore"
+      },
+      {
+        "type": "before",
+        "target": "CraftingTableIV"
+      },
+      {
+        "type": "before",
+        "target": "MineTweaker3"
+      },
+      {
+        "type": "before",
+        "target": "lootablebodies"
+      },
+      {
+        "type": "before",
+        "target": "defaultkeys"
+      },
+      {
+        "type": "before",
+        "target": "defaultworldgenerator"
+      },
+      {
+        "type": "before",
+        "target": "DraconicEvolution"
+      },
+      {
+        "type": "before",
+        "target": "ImmersiveEngineering"
+      },
+      {
+        "type": "before",
+        "target": "Mantle"
+      },
+      {
+        "type": "before",
+        "target": "TConstruct"
+      },
+      {
+        "type": "before",
+        "target": "minechem"
+      },
+      {
+        "type": "before",
+        "target": "DragonAPI"
+      },
+      {
+        "type": "before",
+        "target": "RotaryCraft"
+      },
+      {
+        "type": "before",
+        "target": "ElectriCraft"
+      },
+      {
+        "type": "before",
+        "target": "endercore"
+      },
+      {
+        "type": "before",
+        "target": "EnderIO"
+      },
+      {
+        "type": "before",
+        "target": "EnderStorage"
+      },
+      {
+        "type": "before",
+        "target": "enviromine"
+      },
+      {
+        "type": "before",
+        "target": "etfuturum"
+      },
+      {
+        "type": "before",
+        "target": "GalacticraftCore"
+      },
+      {
+        "type": "before",
+        "target": "GalacticraftMars"
+      },
+      {
+        "type": "before",
+        "target": "ExtraPlanets"
+      },
+      {
+        "type": "before",
+        "target": "harvestcraft"
+      },
+      {
+        "type": "before",
+        "target": "TSteelworks"
+      },
+      {
+        "type": "before",
+        "target": "ExtraTiC"
+      },
+      {
+        "type": "before",
+        "target": "FloodLights"
+      },
+      {
+        "type": "before",
+        "target": "llibrary"
+      },
+      {
+        "type": "before",
+        "target": "fossil"
+      },
+      {
+        "type": "before",
+        "target": "framez"
+      },
+      {
+        "type": "before",
+        "target": "FTBL"
+      },
+      {
+        "type": "before",
+        "target": "FTBU"
+      },
+      {
+        "type": "before",
+        "target": "GalaxySpace"
+      },
+      {
+        "type": "before",
+        "target": "GemToolsTFC"
+      },
+      {
+        "type": "before",
+        "target": "gendustry"
+      },
+      {
+        "type": "before",
+        "target": "GraviSuite"
+      },
+      {
+        "type": "before",
+        "target": "gregtech5"
+      },
+      {
+        "type": "before",
+        "target": "IC2NuclearControl"
+      },
+      {
+        "type": "before",
+        "target": "meteors"
+      },
+      {
+        "type": "before",
+        "target": "OpenComputers"
+      },
+      {
+        "type": "before",
+        "target": "openmodularturrets"
+      },
+      {
+        "type": "before",
+        "target": "PneumaticCraft"
+      },
+      {
+        "type": "before",
+        "target": "ReactorCraft"
+      },
+      {
+        "type": "before",
+        "target": "StevesCarts"
+      },
+      {
+        "type": "before",
+        "target": "Techguns"
+      },
+      {
+        "type": "before",
+        "target": "WR-CBE|Core"
+      },
+      {
+        "type": "before",
+        "target": "WR-CBE|Addons"
+      },
+      {
+        "type": "before",
+        "target": "WR-CBE|Logic"
+      },
+      {
+        "type": "before",
+        "target": "ForgeMicroblock"
+      },
+      {
+        "type": "before",
+        "target": "McMultipart"
+      },
+      {
+        "type": "before",
+        "target": "gregapi_post"
+      },
+      {
+        "type": "before",
+        "target": "gregtech"
+      },
+      {
+        "type": "before",
+        "target": "GTProspector"
+      },
+      {
+        "type": "before",
+        "target": "Ic2Nei"
+      },
+      {
+        "type": "before",
+        "target": "wrenchPlugin"
+      },
+      {
+        "type": "before",
+        "target": "iChunUtil"
+      },
+      {
+        "type": "before",
+        "target": "itlt"
+      },
+      {
+        "type": "before",
+        "target": "LegacyCraft"
+      },
+      {
+        "type": "before",
+        "target": "legacyfarms"
+      },
+      {
+        "type": "before",
+        "target": "LoreExp"
+      },
+      {
+        "type": "before",
+        "target": "MobAmputation"
+      },
+      {
+        "type": "before",
+        "target": "MobDismemberment"
+      },
+      {
+        "type": "before",
+        "target": "modtweaker2"
+      },
+      {
+        "type": "before",
+        "target": "MorePlanet"
+      },
+      {
+        "type": "before",
+        "target": "MouseTweaks"
+      },
+      {
+        "type": "before",
+        "target": "Netherless"
+      },
+      {
+        "type": "before",
+        "target": "netherportalfix"
+      },
+      {
+        "type": "before",
+        "target": "NuclearCraft"
+      },
+      {
+        "type": "before",
+        "target": "numina"
+      },
+      {
+        "type": "before",
+        "target": "p455w0rdslib"
+      },
+      {
+        "type": "before",
+        "target": "PunchMeNot"
+      },
+      {
+        "type": "before",
+        "target": "qwertech"
+      },
+      {
+        "type": "before",
+        "target": "reauth"
+      },
+      {
+        "type": "before",
+        "target": "rftools"
+      },
+      {
+        "type": "before",
+        "target": "soundfilters"
+      },
+      {
+        "type": "before",
+        "target": "StevesFactoryManager"
+      },
+      {
+        "type": "before",
+        "target": "StevesAddons"
+      },
+      {
+        "type": "before",
+        "target": "StevesWorkshop"
+      },
+      {
+        "type": "before",
+        "target": "Sync"
+      },
+      {
+        "type": "before",
+        "target": "TerraFirmaCraftNEIplugin"
+      },
+      {
+        "type": "before",
+        "target": "toxicworld"
+      },
+      {
+        "type": "before",
+        "target": "Uncomplication"
+      },
+      {
+        "type": "before",
+        "target": "wailaevents"
+      },
+      {
+        "type": "before",
+        "target": "waila-blacklist"
+      },
+      {
+        "type": "before",
+        "target": "wailafeatures"
+      },
+      {
+        "type": "before",
+        "target": "wailainhib"
+      },
+      {
+        "type": "before",
+        "target": "WailaHarvestability"
+      },
+      {
+        "type": "before",
+        "target": "wailaplugins"
+      },
+      {
+        "type": "before",
+        "target": "WLM"
+      },
+      {
+        "type": "before",
+        "target": "WaterPower"
+      },
+      {
+        "type": "before",
+        "target": "ae2wct"
+      },
+      {
+        "type": "before",
+        "target": "ZAMod"
+      },
+      {
+        "type": "before",
+        "target": "aobd"
+      },
+      {
+        "type": "before",
+        "target": "HungerOverhaul"
+      },
+      {
+        "type": "before",
+        "target": "IguanaTweaksTConstruct"
+      }
+    ]
+  }
+]
