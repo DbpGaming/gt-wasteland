@@ -834,51 +834,6 @@ ae2stuff:Encoder, Pattern Encoder
 ae2stuff:Grower, Crystal Growth Chamber
 ae2stuff:Inscriber, Advanced Inscriber
 ae2stuff:Wireless, Wireless Connector
-aura:storageBookshelfCoordinator, Bookshelf Coordinator
-aura:storageBookshelf, Storage Bookshelf
-aura:fairyTorch, tile.fairyTorch.name
-aura:fortifiedDirt, Fortified Dirt
-aura:fortifiedWood, Fortified Planks
-aura:fortifiedGlass, Fortified Glass
-aura:fortifiedCobblestone, Fortified Cobblestone
-aura:fortifiedStone, Fortified Stone
-aura:fortifiedObsidian, Fortified Obsidian
-aura:consumerBlockfurnace, Cascading Smelter
-aura:consumerBlockplant, Cascading Grower
-aura:consumerBlockore, Cascading Processor
-aura:consumerBlockloot, Cascading Looter
-aura:consumerBlockmob, Cascading Spawner
-aura:consumerBlockangel, Cascading Synthesizer
-aura:consumerBlocknether, Ritual of the Nether
-aura:consumerBlockenchant, Kaleidoscopic Enchanter
-aura:consumerBlockpotion, Cascading Brewer
-aura:consumerBlockdye, Cascading Colorer
-aura:consumerBlockoreAdv, Prismatic Processor
-aura:consumerBlockminer, Cascading Miner
-aura:consumerBlockfish, Cascading Fisher
-aura:consumerBlockend, Ritual of the End
-aura:trampoline, Rebounding Enigma
-aura:magicRoad, Traveler's Bricks
-aura:monitor, Monitor
-aura:auraNode, Aura Node
-aura:auraNodepump, Burning Aura Pump
-aura:auraNodeblack, Aura Manipulator: Black
-aura:auraNodeconserve, Conserving Aura Node
-aura:auraNodecapacitor, Aura Capacitor
-aura:auraNodecraftingCenter, Vortex Controller
-aura:auraNodecraftingPedestal, Vortex Pedestal
-aura:auraNodeorange, Aura Manipulator: Orange
-aura:auraNodepumpAlt, Alternating Burning Aura Pump
-aura:auraNodepumpProjectile, Projectile Aura Pump
-aura:auraNodepumpFall, Momentum Aura Pump
-aura:auraNodepumpLight, Illumination Aura Pump
-aura:auraNodepumpRedstone, Redstone Aura Pump
-aura:auraNodepumpProjectileAlt, Alternating Projectile Aura Pump
-aura:auraNodepumpFallAlt, Alternating Momentum Aura Pump
-aura:auraNodepumpCreative, Creative Pump (Creative Only)
-aura:auraNodepumpLightAlt, Alternating Illumination Aura Pump
-aura:auraNodepumpRedstoneAlt, Alternating Redstone Aura Pump
-aura:auraNodeflux, Fluxing Node
 Avaritia:Double_Craft, Compressed Crafting Table
 Avaritia:Triple_Craft, Double Compressed Crafting Table
 Avaritia:Dire_Crafting, Dire Crafting Table
@@ -1323,6 +1278,41 @@ Forestry:stairsFireproof:26, Padauk Stairs (Fireproof)
 Forestry:stairsFireproof:27, Cocobolo Stairs (Fireproof)
 Forestry:stairsFireproof:28, Zebrawood Stairs (Fireproof)
 Forestry:saplingGE:0, Sapling
+Forestry:leaves:0, Apple Oak Leaves
+Forestry:leaves:0, Dark Oak Leaves
+Forestry:leaves:0, Silver Birch Leaves
+Forestry:leaves:0, Silver Lime Leaves
+Forestry:leaves:0, Common Walnut Leaves
+Forestry:leaves:0, Sweet Chestnut Leaves
+Forestry:leaves:0, Hill Cherry Leaves
+Forestry:leaves:0, Lemon Leaves
+Forestry:leaves:0, Plum Leaves
+Forestry:leaves:0, Sugar Maple Leaves
+Forestry:leaves:0, Red Spruce Leaves
+Forestry:leaves:0, Mundane Larch Leaves
+Forestry:leaves:0, Bull Pine Leaves
+Forestry:leaves:0, Coast Sequoia Leaves
+Forestry:leaves:0, Giant Sequoia Leaves
+Forestry:leaves:0, Jungle Leaves
+Forestry:leaves:0, Teak Leaves
+Forestry:leaves:0, Ipe Leaves
+Forestry:leaves:0, Kapok Leaves
+Forestry:leaves:0, Myrtle Ebony Leaves
+Forestry:leaves:0, Zebrawood Leaves
+Forestry:leaves:0, Yellow Meranti Leaves
+Forestry:leaves:0, Acacia Leaves
+Forestry:leaves:0, Desert Acacia Leaves
+Forestry:leaves:0, Padauk Leaves
+Forestry:leaves:0, Balsa Leaves
+Forestry:leaves:0, Cocobolo Leaves
+Forestry:leaves:0, Wenge Leaves
+Forestry:leaves:0, Grandidier's Baobab Leaves
+Forestry:leaves:0, Blue Mahoe Leaves
+Forestry:leaves:0, White Willow Leaves
+Forestry:leaves:0, Sipiri Leaves
+Forestry:leaves:0, Papaya Leaves
+Forestry:leaves:0, Date Palm Leaves
+Forestry:leaves:0, White Poplar Leaves
 Forestry:pods:0, Pod
 Forestry:arboriculture:0, Arborist's Chest
 Forestry:engine:0, Electrical Engine
@@ -1401,6 +1391,252 @@ Forestry:ffarm:5, Farm Control
 Forestry:mail:0, Mailbox
 Forestry:mail:1, Trade Station
 Forestry:mail:2, Stamp Collector
+BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
+BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
+BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
+BiblioCraft:BiblioPaneler:2, Birch Furniture Paneler
+BiblioCraft:BiblioPaneler:3, Jungle Furniture Paneler
+BiblioCraft:BiblioPaneler:4, Acacia Furniture Paneler
+BiblioCraft:BiblioPaneler:5, Dark Oak Furniture Paneler
+BiblioCraft:BiblioPaneler:6, Framed Furniture Paneler
+BiblioCraft:BiblioClipboard, tile.BiblioClipboard.name
+BiblioCraft:BiblioTypewriter:0, White Typewriter
+BiblioCraft:BiblioTypewriter:1, Light Gray Typewriter
+BiblioCraft:BiblioTypewriter:2, Gray Typewriter
+BiblioCraft:BiblioTypewriter:3, Black Typewriter
+BiblioCraft:BiblioTypewriter:4, Red Typewriter
+BiblioCraft:BiblioTypewriter:5, Orange Typewriter
+BiblioCraft:BiblioTypewriter:6, Yellow Typewriter
+BiblioCraft:BiblioTypewriter:7, Lime Typewriter
+BiblioCraft:BiblioTypewriter:8, Green Typewriter
+BiblioCraft:BiblioTypewriter:9, Cyan Typewriter
+BiblioCraft:BiblioTypewriter:10, Light Blue Typewriter
+BiblioCraft:BiblioTypewriter:11, Blue Typewriter
+BiblioCraft:BiblioTypewriter:12, Purple Typewriter
+BiblioCraft:BiblioTypewriter:13, Magenta Typewriter
+BiblioCraft:BiblioTypewriter:14, Pink Typewriter
+BiblioCraft:BiblioTypewriter:15, Brown Typewriter
+BiblioCraft:BiblioClock:0, Oak Clock
+BiblioCraft:BiblioClock:1, Spruce Clock
+BiblioCraft:BiblioClock:2, Birch Clock
+BiblioCraft:BiblioClock:3, Jungle Clock
+BiblioCraft:BiblioClock:4, Acacia Clock
+BiblioCraft:BiblioClock:5, Dark Oak Clock
+BiblioCraft:BiblioClock:6, Framed Clock
+BiblioCraft:BiblioFlatPainting:0, Oak Painting Frame
+BiblioCraft:BiblioFlatPainting:1, Spruce Painting Frame
+BiblioCraft:BiblioFlatPainting:2, Birch Painting Frame
+BiblioCraft:BiblioFlatPainting:3, Jungle Painting Frame
+BiblioCraft:BiblioFlatPainting:4, Acacia Painting Frame
+BiblioCraft:BiblioFlatPainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioFlatPainting:6, Framed Painting Frame
+BiblioCraft:BiblioSimplePainting:0, Oak Painting Frame
+BiblioCraft:BiblioSimplePainting:1, Spruce Painting Frame
+BiblioCraft:BiblioSimplePainting:2, Birch Painting Frame
+BiblioCraft:BiblioSimplePainting:3, Jungle Painting Frame
+BiblioCraft:BiblioSimplePainting:4, Acacia Painting Frame
+BiblioCraft:BiblioSimplePainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioSimplePainting:6, Framed Painting Frame
+BiblioCraft:BiblioMiddlePainting:0, Oak Painting Frame
+BiblioCraft:BiblioMiddlePainting:1, Spruce Painting Frame
+BiblioCraft:BiblioMiddlePainting:2, Birch Painting Frame
+BiblioCraft:BiblioMiddlePainting:3, Jungle Painting Frame
+BiblioCraft:BiblioMiddlePainting:4, Acacia Painting Frame
+BiblioCraft:BiblioMiddlePainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioMiddlePainting:6, Framed Painting Frame
+BiblioCraft:BiblioFancyPainting:0, Oak Painting Frame
+BiblioCraft:BiblioFancyPainting:1, Spruce Painting Frame
+BiblioCraft:BiblioFancyPainting:2, Birch Painting Frame
+BiblioCraft:BiblioFancyPainting:3, Jungle Painting Frame
+BiblioCraft:BiblioFancyPainting:4, Acacia Painting Frame
+BiblioCraft:BiblioFancyPainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioFancyPainting:6, Framed Painting Frame
+BiblioCraft:BiblioBorderlessPainting:0, Oak Painting Frame
+BiblioCraft:BiblioBorderlessPainting:1, Spruce Painting Frame
+BiblioCraft:BiblioBorderlessPainting:2, Birch Painting Frame
+BiblioCraft:BiblioBorderlessPainting:3, Jungle Painting Frame
+BiblioCraft:BiblioBorderlessPainting:4, Acacia Painting Frame
+BiblioCraft:BiblioBorderlessPainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioBorderlessPainting:6, Framed Painting Frame
+BiblioCraft:BiblioPaintPress, Painting Press
+BiblioCraft:BiblioSwordPedestal:0, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:1, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:2, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:3, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:4, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:5, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:6, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:7, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:8, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:9, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:10, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:11, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:12, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:13, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:14, Sword Pedestal
+BiblioCraft:BiblioSwordPedestal:15, Sword Pedestal
+BiblioCraft:BiblioFancySign:0, Oak Fancy Sign
+BiblioCraft:BiblioFancySign:1, Spruce Fancy Sign
+BiblioCraft:BiblioFancySign:2, Birch Fancy Sign
+BiblioCraft:BiblioFancySign:3, Jungle Fancy Sign
+BiblioCraft:BiblioFancySign:4, Acacia Fancy Sign
+BiblioCraft:BiblioFancySign:5, Dark Oak Fancy Sign
+BiblioCraft:BiblioFancySign:6, Framed Fancy Sign
+BiblioCraft:BiblioWorkbench:0, Oak Fancy Workbench
+BiblioCraft:BiblioWorkbench:1, Spruce Fancy Workbench
+BiblioCraft:BiblioWorkbench:2, Birch Fancy Workbench
+BiblioCraft:BiblioWorkbench:3, Jungle Fancy Workbench
+BiblioCraft:BiblioWorkbench:4, Acacia Fancy Workbench
+BiblioCraft:BiblioWorkbench:5, Dark Oak Fancy Workbench
+BiblioCraft:BiblioWorkbench:6, Framed Fancy Workbench
+BiblioCraft:BiblioBell, Desk Bell
+BiblioCraft:Bibliotheca:0, Oak Bookcase
+BiblioCraft:Bibliotheca:1, Spruce Bookcase
+BiblioCraft:Bibliotheca:2, Birch Bookcase
+BiblioCraft:Bibliotheca:3, Jungle Bookcase
+BiblioCraft:Bibliotheca:4, Acacia Bookcase
+BiblioCraft:Bibliotheca:5, Dark Oak Bookcase
+BiblioCraft:Bibliotheca:6, Framed Bookcase
+BiblioCraft:BookcaseFilled:0, Oak Bookcase
+BiblioCraft:BookcaseFilled:1, Spruce Bookcase
+BiblioCraft:BookcaseFilled:2, Birch Bookcase
+BiblioCraft:BookcaseFilled:3, Jungle Bookcase
+BiblioCraft:BookcaseFilled:4, Acacia Bookcase
+BiblioCraft:BookcaseFilled:5, Dark Oak Bookcase
+BiblioCraft:BookcaseFilled:6, Framed Bookcase
+BiblioCraft:BiblioPotionShelf:0, Oak Potion Shelf
+BiblioCraft:BiblioPotionShelf:1, Spruce Potion Shelf
+BiblioCraft:BiblioPotionShelf:2, Birch Potion Shelf
+BiblioCraft:BiblioPotionShelf:3, Jungle Potion Shelf
+BiblioCraft:BiblioPotionShelf:4, Acacia Potion Shelf
+BiblioCraft:BiblioPotionShelf:5, Dark Oak Potion Shelf
+BiblioCraft:BiblioPotionShelf:6, Framed Potion Shelf
+BiblioCraft:BiblioShelf:0, Oak Shelf
+BiblioCraft:BiblioShelf:1, Spruce Shelf
+BiblioCraft:BiblioShelf:2, Birch Shelf
+BiblioCraft:BiblioShelf:3, Jungle Shelf
+BiblioCraft:BiblioShelf:4, Acacia Shelf
+BiblioCraft:BiblioShelf:5, Dark Oak Shelf
+BiblioCraft:BiblioShelf:6, Framed Shelf
+BiblioCraft:BiblioRack:0, Oak Tool Rack
+BiblioCraft:BiblioRack:1, Spruce Tool Rack
+BiblioCraft:BiblioRack:2, Birch Tool Rack
+BiblioCraft:BiblioRack:3, Jungle Tool Rack
+BiblioCraft:BiblioRack:4, Acacia Tool Rack
+BiblioCraft:BiblioRack:5, Dark Oak Tool Rack
+BiblioCraft:BiblioRack:6, Framed Tool Rack
+BiblioCraft:BiblioCase:0, Oak Case
+BiblioCraft:BiblioCase:1, Spruce Case
+BiblioCraft:BiblioCase:2, Birch Case
+BiblioCraft:BiblioCase:3, Jungle Case
+BiblioCraft:BiblioCase:4, Acacia Case
+BiblioCraft:BiblioCase:5, Dark Oak Case
+BiblioCraft:BiblioCase:6, Framed Case
+BiblioCraft:BiblioLabel:0, Oak Wood Label
+BiblioCraft:BiblioLabel:1, Spruce Wood Label
+BiblioCraft:BiblioLabel:2, Birch Wood Label
+BiblioCraft:BiblioLabel:3, Jungle Wood Label
+BiblioCraft:BiblioLabel:4, Acacia Label
+BiblioCraft:BiblioLabel:5, Dark Oak Label
+BiblioCraft:BiblioLabel:6, Framed Label
+BiblioCraft:BiblioDesk:0, Oak Desk
+BiblioCraft:BiblioDesk:1, Spruce Desk
+BiblioCraft:BiblioDesk:2, Birch Desk
+BiblioCraft:BiblioDesk:3, Jungle Desk
+BiblioCraft:BiblioDesk:4, Acacia Desk
+BiblioCraft:BiblioDesk:5, Dark Oak Desk
+BiblioCraft:BiblioDesk:6, Framed Desk
+BiblioCraft:BiblioTable:0, Oak Table
+BiblioCraft:BiblioTable:1, Spruce Table
+BiblioCraft:BiblioTable:2, Birch Table
+BiblioCraft:BiblioTable:3, Jungle Table
+BiblioCraft:BiblioTable:4, Acacia Table
+BiblioCraft:BiblioTable:5, Dark Oak Table
+BiblioCraft:BiblioTable:6, Framed Table
+BiblioCraft:Armor Stand, Armor Stand
+BiblioCraft:Typesetting Machine, Typesetting Table
+BiblioCraft:Printing Press, Printing Press
+BiblioCraft:BiblioLantern:0, Fancy Lantern
+BiblioCraft:BiblioLantern:1, Fancy Lantern
+BiblioCraft:BiblioLantern:2, Fancy Lantern
+BiblioCraft:BiblioLantern:3, Fancy Lantern
+BiblioCraft:BiblioLantern:4, Fancy Lantern
+BiblioCraft:BiblioLantern:5, Fancy Lantern
+BiblioCraft:BiblioLantern:6, Fancy Lantern
+BiblioCraft:BiblioLantern:7, Fancy Lantern
+BiblioCraft:BiblioLantern:8, Fancy Lantern
+BiblioCraft:BiblioLantern:9, Fancy Lantern
+BiblioCraft:BiblioLantern:10, Fancy Lantern
+BiblioCraft:BiblioLantern:11, Fancy Lantern
+BiblioCraft:BiblioLantern:12, Fancy Lantern
+BiblioCraft:BiblioLantern:13, Fancy Lantern
+BiblioCraft:BiblioLantern:14, Fancy Lantern
+BiblioCraft:BiblioLantern:15, Fancy Lantern
+BiblioCraft:BiblioIronLantern:0, Fancy Lantern
+BiblioCraft:BiblioIronLantern:1, Fancy Lantern
+BiblioCraft:BiblioIronLantern:2, Fancy Lantern
+BiblioCraft:BiblioIronLantern:3, Fancy Lantern
+BiblioCraft:BiblioIronLantern:4, Fancy Lantern
+BiblioCraft:BiblioIronLantern:5, Fancy Lantern
+BiblioCraft:BiblioIronLantern:6, Fancy Lantern
+BiblioCraft:BiblioIronLantern:7, Fancy Lantern
+BiblioCraft:BiblioIronLantern:8, Fancy Lantern
+BiblioCraft:BiblioIronLantern:9, Fancy Lantern
+BiblioCraft:BiblioIronLantern:10, Fancy Lantern
+BiblioCraft:BiblioIronLantern:11, Fancy Lantern
+BiblioCraft:BiblioIronLantern:12, Fancy Lantern
+BiblioCraft:BiblioIronLantern:13, Fancy Lantern
+BiblioCraft:BiblioIronLantern:14, Fancy Lantern
+BiblioCraft:BiblioIronLantern:15, Fancy Lantern
+BiblioCraft:BiblioLamp:0, Fancy Lamp
+BiblioCraft:BiblioLamp:1, Fancy Lamp
+BiblioCraft:BiblioLamp:2, Fancy Lamp
+BiblioCraft:BiblioLamp:3, Fancy Lamp
+BiblioCraft:BiblioLamp:4, Fancy Lamp
+BiblioCraft:BiblioLamp:5, Fancy Lamp
+BiblioCraft:BiblioLamp:6, Fancy Lamp
+BiblioCraft:BiblioLamp:7, Fancy Lamp
+BiblioCraft:BiblioLamp:8, Fancy Lamp
+BiblioCraft:BiblioLamp:9, Fancy Lamp
+BiblioCraft:BiblioLamp:10, Fancy Lamp
+BiblioCraft:BiblioLamp:11, Fancy Lamp
+BiblioCraft:BiblioLamp:12, Fancy Lamp
+BiblioCraft:BiblioLamp:13, Fancy Lamp
+BiblioCraft:BiblioLamp:14, Fancy Lamp
+BiblioCraft:BiblioLamp:15, Fancy Lamp
+BiblioCraft:BiblioIronLamp:0, Fancy Lamp
+BiblioCraft:BiblioIronLamp:1, Fancy Lamp
+BiblioCraft:BiblioIronLamp:2, Fancy Lamp
+BiblioCraft:BiblioIronLamp:3, Fancy Lamp
+BiblioCraft:BiblioIronLamp:4, Fancy Lamp
+BiblioCraft:BiblioIronLamp:5, Fancy Lamp
+BiblioCraft:BiblioIronLamp:6, Fancy Lamp
+BiblioCraft:BiblioIronLamp:7, Fancy Lamp
+BiblioCraft:BiblioIronLamp:8, Fancy Lamp
+BiblioCraft:BiblioIronLamp:9, Fancy Lamp
+BiblioCraft:BiblioIronLamp:10, Fancy Lamp
+BiblioCraft:BiblioIronLamp:11, Fancy Lamp
+BiblioCraft:BiblioIronLamp:12, Fancy Lamp
+BiblioCraft:BiblioIronLamp:13, Fancy Lamp
+BiblioCraft:BiblioIronLamp:14, Fancy Lamp
+BiblioCraft:BiblioIronLamp:15, Fancy Lamp
+BiblioCraft:BiblioStuffs:0, Cookie Jar
+BiblioCraft:BiblioStuffs:2, Dinner Plate
+BiblioCraft:BiblioStuffs:3, Disc Rack
+BiblioCraft:BiblioMapFrames:0, Oak Map Frame
+BiblioCraft:BiblioMapFrames:1, Spruce Map Frame
+BiblioCraft:BiblioMapFrames:2, Birch Map Frame
+BiblioCraft:BiblioMapFrames:3, Jungle Map Frame
+BiblioCraft:BiblioMapFrames:4, Acacia Map Frame
+BiblioCraft:BiblioMapFrames:5, Dark Oak Map Frame
+BiblioCraft:BiblioMapFrames:6, Framed Map Frame
+BiblioCraft:BiblioSeats:0, Oak Seat
+BiblioCraft:BiblioSeats:1, Spruce Seat
+BiblioCraft:BiblioSeats:2, Birch Seat
+BiblioCraft:BiblioSeats:3, Jungle Seat
+BiblioCraft:BiblioSeats:4, Acacia Seat
+BiblioCraft:BiblioSeats:5, Dark Oak Seat
+BiblioCraft:BiblioSeats:6, Framed Seat
 BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
 BuildCraft|Core:engineBlock:0, Redstone Engine
 BuildCraft|Core:engineBlock:1, Stirling Engine
@@ -9928,18 +10164,6 @@ ReactorCraft:reactorcraft_block_fluorite:4, Green Fluorite Block
 ReactorCraft:reactorcraft_block_fluorite:5, Red Fluorite Block
 ReactorCraft:reactorcraft_block_fluorite:6, White Fluorite Block
 ReactorCraft:reactorcraft_block_fluorite:7, Yellow Fluorite Block
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 ReactorCraft:reactorcraft_block_fluoriteore:0, Blue Fluorite
 ReactorCraft:reactorcraft_block_fluoriteore:1, Pink Fluorite
 ReactorCraft:reactorcraft_block_fluoriteore:2, Orange Fluorite
@@ -9996,6 +10220,18 @@ ReactorCraft:reactorcraft_block_lamp:12, Green Tritium Lamp
 ReactorCraft:reactorcraft_block_lamp:13, Red Tritium Lamp
 ReactorCraft:reactorcraft_block_lamp:14, White Tritium Lamp
 ReactorCraft:reactorcraft_block_lamp:15, Yellow Tritium Lamp
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 ReactorCraft:reactorcraft_block_thorium:7, Thorium Fuel
 ReactorCraft:reactorcraft_block_chlorine, tile.ChlorineGas.name
 ReactorCraft:reactorcraft_block_hf, tile.FluorineGas.name
@@ -14868,63 +15104,6 @@ gtweapons:gtww.multitiles:2, gtww.multitiles.2.name
 gtweapons:gtww.multitiles:3, gtww.multitiles.3.name
 gtweapons:gtww.multitiles:4, gtww.multitiles.4.name
 gtweapons:turret, Tesla Turret
-HydCraft:hydraulicFrictionIncinerator, Friction Incinerator
-HydCraft:hydraulicCrusher, Crusher
-HydCraft:hydraulicWasher, Washer
-HydCraft:hydraulicPressureWall, Pressure Wall
-HydCraft:hydraulicPressureGlass, Pressure Glass
-HydCraft:hydraulicFilter, Filter
-HydCraft:hydraulicFiller, Hydraulic Filler
-HydCraft:valve, Hydraulic Block Valve
-HydCraft:interfaceValve, Interface Valve
-HydCraft:movingPane, Moving Pane
-HydCraft:LPHydraulicPressureVat:0, Low Pressure Vat
-HydCraft:LPHydraulicPressureVat:1, Medium Pressure Vat
-HydCraft:LPHydraulicPressureVat:2, High Pressure Vat
-HydCraft:LPHydraulicPump:0, Low Pressure Pump
-HydCraft:LPHydraulicPump:1, Medium Pressure Pump
-HydCraft:LPHydraulicPump:2, High Pressure Pump
-HydCraft:LPHydraulicLavaPump:0, Low Pressure Lava Pump
-HydCraft:LPHydraulicLavaPump:1, Medium Pressure Lava Pump
-HydCraft:LPHydraulicLavaPump:2, High Pressure Lava Pump
-HydCraft:hydraulicHarvesterSource, Hydraulic Harvester
-HydCraft:hydraulicHarvesterFrame, Harvester Frame
-HydCraft:harvesterTrolley, tile.harvesterTrolley.name
-HydCraft:hydraulicPiston, Hydraulic Piston
-HydCraft:LPBlockCore:0, Low Pressure Core
-HydCraft:LPBlockCore:1, Medium Pressure Core
-HydCraft:LPBlockCore:2, High Pressure Core
-HydCraft:hydraulicFluidPump, Hydraulic Archimedes' Screw
-HydCraft:portalBase, Portal base
-HydCraft:portalFrame, Portal frame
-HydCraft:blockJarDirt, Jar of Dirt
-HydCraft:hydraulicCharger, Hydraulic Charger
-HydCraft:hydraulicAssembler, Assembler
-HydCraft:blockCopper, Copper Block
-HydCraft:blockLead, Lead Block
-HydCraft:blockTransparentLight, Transparent Light
-HydCraft:pressureDisposal, Pressure Disposal
-HydCraft:blockInfiniteSource, Infinite Source
-HydCraft:chunkLoader, tile.chunkLoader.name
-HydCraft:portalTeleporter, Portal
-HydCraft:refinedLonezium, Refined Lonezium
-HydCraft:refinedNadsiumBicarbinate, Refined Nadsium Bicarbinate
-HydCraft:blockDirtyMineral, Dirty Mineral
-HydCraft:oreCopper, Copper Ore
-HydCraft:oreLead, Lead Ore
-HydCraft:oreLonezium, Lonezium
-HydCraft:oreNadsiumBicarbinate, Nadsium Bicarbinate
-HydCraft:oreBeachium, Beachium
-HydCraft:oreFoxium, Foxium
-HydCraft:tile.hydraulicOil, Hydraulic Oil
-HydCraft:tile.oil, Oil
-HydCraft:fluid.lubricant, Lubricant
-HydCraft:fluid.fluoroCarbonFluid, Fluoro Carbon Fluid
-HydCraft:hydraulicGenerator, Hydraulic Generator
-HydCraft:LPElectricPump:0, Low Pressure Electric Pump
-HydCraft:LPElectricPump:1, Medium Pressure Electric Pump
-HydCraft:LPElectricPump:2, High Pressure Electric Pump
-HydCraft:hydraulicSaw, Hydraulic Saw
 legacyfarms:tile.harvester:0, Logger
 legacyfarms:tile.harvester:1, Combine
 legacyfarms:tile.harvester:3, Pumpkin Harvester
@@ -16380,7 +16559,6 @@ ae2stuff:WirelessKit, Wireless Setup Kit
 ae2stuff:Visualiser, Network Visualisation Tool
 antiqueatlas:antiqueAtlas:0, Antique Atlas #0
 antiqueatlas:emptyAntiqueAtlas, Empty Antique Atlas
-Baubles:Ring:0, Miner's Ring
 Avaritia:Resource:0, Diamond Lattice
 Avaritia:Resource:1, Crystal Matrix Ingot
 Avaritia:Resource:2, Pile of Neutrons
@@ -16943,6 +17121,69 @@ Forestry:cratedRubber, item.cratedRubber.name
 Forestry:cratedScrap, item.cratedScrap.name
 Forestry:cratedSilver, item.cratedSilver.name
 Forestry:cratedBrass, item.cratedBrass.name
+BiblioCraft:item.StockroomCatalog, Stockroom Catalog
+BiblioCraft:item.PlumbLine, Plumb line
+BiblioCraft:item.FramingSaw, Framing Saw
+BiblioCraft:item.FramingBoard, Framing Board
+BiblioCraft:item.FramingSheet, Framing Sheet
+BiblioCraft:item.TesterItem, ItemStack Name Tester
+BiblioCraft:item.AtlasBook:0, Atlas
+BiblioCraft:item.AtlasPlate, Atlas Plate
+BiblioCraft:item.DeathCompass, Eternal Compass
+BiblioCraft:item.PaintingCanvas, Painting Canvas
+BiblioCraft:item.BigBook, Big Writing Book
+BiblioCraft:item.RecipeBook, Empty Recipe Book
+BiblioCraft:item.SlottedBook, Slotted Book
+BiblioCraft:item.HandDrill, Hand Drill
+BiblioCraft:item.tapeMeasure, Tape Measure
+BiblioCraft:item.tape, Tape Measure Reel
+BiblioCraft:item.BiblioChase, Print Press Chase
+BiblioCraft:item.PrintPlate, Print Press Plate
+BiblioCraft:item.EnchantedPlate, Enchanted Plate
+BiblioCraft:item.BiblioRedBook, Redstone: Volume I
+BiblioCraft:item.BiblioGlasses:0, Reading Glasses
+BiblioCraft:item.BiblioGlasses:1, Tinted Glasses
+BiblioCraft:item.BiblioGlasses:2, Monocle
+BiblioCraft:item.BiblioDrill, Screw Gun
+BiblioCraft:item.BiblioCreativeLock, Lock and Key
+BiblioCraft:item.BiblioClipboard, Clipboard
+BiblioCraft:item.seatBack:0, Oak Seat Back
+BiblioCraft:item.seatBack:1, Spruce Seat Back
+BiblioCraft:item.seatBack:2, Birch Seat Back
+BiblioCraft:item.seatBack:3, Jungle Seat Back
+BiblioCraft:item.seatBack:4, Acacia Seat Back
+BiblioCraft:item.seatBack:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack:6, Framed Seat Back
+BiblioCraft:item.seatBack2:0, Oak Seat Back
+BiblioCraft:item.seatBack2:1, Spruce Seat Back
+BiblioCraft:item.seatBack2:2, Birch Seat Back
+BiblioCraft:item.seatBack2:3, Jungle Seat Back
+BiblioCraft:item.seatBack2:4, Acacia Seat Back
+BiblioCraft:item.seatBack2:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack2:6, Framed Seat Back
+BiblioCraft:item.seatBack3:0, Oak Seat Back
+BiblioCraft:item.seatBack3:1, Spruce Seat Back
+BiblioCraft:item.seatBack3:2, Birch Seat Back
+BiblioCraft:item.seatBack3:3, Jungle Seat Back
+BiblioCraft:item.seatBack3:4, Acacia Seat Back
+BiblioCraft:item.seatBack3:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack3:6, Framed Seat Back
+BiblioCraft:item.seatBack4:0, Oak Seat Back
+BiblioCraft:item.seatBack4:1, Spruce Seat Back
+BiblioCraft:item.seatBack4:2, Birch Seat Back
+BiblioCraft:item.seatBack4:3, Jungle Seat Back
+BiblioCraft:item.seatBack4:4, Acacia Seat Back
+BiblioCraft:item.seatBack4:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack4:6, Framed Seat Back
+BiblioCraft:item.seatBack5:0, Oak Seat Back
+BiblioCraft:item.seatBack5:1, Spruce Seat Back
+BiblioCraft:item.seatBack5:2, Birch Seat Back
+BiblioCraft:item.seatBack5:3, Jungle Seat Back
+BiblioCraft:item.seatBack5:4, Acacia Seat Back
+BiblioCraft:item.seatBack5:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack5:6, Framed Seat Back
+BiblioCraft:item.BiblioMapTool, Drafting Compass
+BiblioCraft:item.BiblioWayPointCompass, Waypoint Compass
 BuildCraft|Core:wrenchItem, Wrench
 BuildCraft|Core:mapLocation, Map Location
 BuildCraft|Core:list:0, List
@@ -17105,6 +17346,7 @@ bcadditions:thruster, Thruster
 bcadditions:lightPlating, Light Plating
 bcadditions:fluxConductor, Flux Conductor
 bcadditions:fluxDisperser, Flux Disperser
+bcadditions:dust:83, Gilded Red Metal Dust
 bcadditions:upgrade:0, Machine Upgrade: Auto-Eject
 bcadditions:upgrade:1, Machine Upgrade: Efficiency I
 bcadditions:upgrade:2, Machine Upgrade: Efficiency II
@@ -19492,6 +19734,7 @@ fossil:cookedMammoth, Cooked Mammoth Meat
 fossil:cookedSmilodon, Cooked Smilodon Meat
 fossil:cookedQuagga, Cooked Quagga Meat
 fossil:cookedElasmotherium, Cooked Elasmotherium Meat
+Baubles:Ring:0, Miner's Ring
 GalaxySpace:item.BasicItems:0, Blank Fuel Tank
 GalaxySpace:item.BasicItems:1, Solar Flare Module
 GalaxySpace:item.BasicItems:2, Solar Flare
@@ -52294,41 +52537,7 @@ gtweapons:gtweapons.meta.item.magazineLC:8756, oredict.gtweaponsMagazineLCDuralu
 gtweapons:gtweapons.meta.item.magazineLC:8790, oredict.gtweaponsMagazineLCTrinitanium.name
 gtweapons:gtweapons.meta.item.magazineLC:8793, oredict.gtweaponsMagazineLCTitaniumIridium.name
 gtweapons:gtweapons.meta.item.magazineLC:8794, oredict.gtweaponsMagazineLCTitaniumAluminide.name
-HydCraft:gasket, Gasket
-HydCraft:ingotCopper, Copper Ingot
-HydCraft:ingotEnrichedCopper, Enriched Copper Ingot
-HydCraft:ingotLead, Lead Ingot
-HydCraft:frictionPlate, Friction Plate
-HydCraft:itemDebug, Debug Item
-HydCraft:miningHelmet, Miners Helmet
-HydCraft:itemLamp, Miners Helmet Lamp
-HydCraft:itemmovingPane, Moving Pane
-HydCraft:diamondShard, Diamond Shard
-HydCraft:dustDiamondCopper, Enriched Copper Dust
-HydCraft:portalIPCard, Portal IP Card
-HydCraft:divingHelmet, Diving Suit Helmet
-HydCraft:divingChest, Diving Suit Chestplate
-HydCraft:divingLegs, Diving Suit Legs
-HydCraft:divingBoots, Diving Suit Boots
-HydCraft:bucketOil, Oil Bucket
-HydCraft:bucketHydraulicOil, Hydraulic Oil Bucket
-HydCraft:bucketLubricant, Lubricant Bucket
-HydCraft:bucketFluoroCarbonFluid, Fluoro Carbon Fluid Bucket
-HydCraft:bacon, Bacon
-HydCraft:enderLolly, Ender Lolly
-HydCraft:hydraulicWrench, Hydraulic Wrench
-HydCraft:itemCannister, item.itemCannister.name
-HydCraft:itemDrill, item.itemDrill.name
-HydCraft:itemSaw, item.itemSaw.name
-HydCraft:itemPressureGauge, Pressure Gauge
-HydCraft:LPHydraulicPipe:0, Low Pressure Pipe
-HydCraft:LPHydraulicPipe:1, Medium Pressure Pipe
-HydCraft:LPHydraulicPipe:2, High Pressure Pipe
-HydCraft:LPPartValve:0, Low Pressure Valve
-HydCraft:LPPartValve:1, Medium Pressure Valve
-HydCraft:LPPartValve:2, High Pressure Valve
-HydCraft:fluidPipe:0, Fluid Pipe
-HydCraft:fluidInterface:0, Fluid Interface
+hardcorewither:StarryApple, Starry Apple
 legacyfarms:itemCatalyst, Catalyst
 LoreExp:page:0, Lore Page
 LoreExp:journal, Journal
